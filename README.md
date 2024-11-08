@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to explor
 
 - 💞️ **I’m looking to collaborate on**: Open-source projects, especially those involving web development, APIs, and automation. If you're working on something exciting, let’s team up!
 
-- 📫 **How to reach me**: You can reach me through [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 📫 **How to reach me**: You can reach me through [email](mailto:rslivecode@gmail.com) or connect with me on [website](https://rsrjteam.com).
 
 - 😄 **Pronouns**: He/Him / They/Them (feel free to use whichever is most comfortable for you!)
 
